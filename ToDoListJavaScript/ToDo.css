@@ -1,0 +1,31 @@
+body {
+    font-family: 'Architects Daughter', cursive;
+}
+
+button {
+    background-color: rgb(65, 142, 236);
+    margin: 20px;
+}
+
+ul {
+    background-color: rgb(65, 142, 236);
+    list-style-type: none;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+li {
+    margin-bottom: 0.1m;
+}
+
+li label {
+    padding-left: 10px;
+}
+
+.container {
+    background-color: lightpink;
+    justify-content: space-between;
+    margin: 20px;
+    padding: 20px;
+}
+
