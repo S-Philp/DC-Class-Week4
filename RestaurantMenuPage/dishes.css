@@ -1,0 +1,40 @@
+body {
+    margin: 20px;
+    font-family: 'EB Garamond', serif;
+}
+
+ul {
+    background-color: lightgrey;
+    list-style-type: none;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+img {
+    width: 10%;
+    height: 20%;
+    border: gray;
+    border-style: solid;
+    margin: 20px;
+}
+
+li {
+    font-size: large;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+#menu #starters {
+    margin: 10px;
+}
+
+i {
+    justify-self: right;
+}
+
+button {
+    font-size: x-large;
+    background-color: darkgray;
+    margin: 20px;
+}
