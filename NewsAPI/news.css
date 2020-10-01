@@ -1,0 +1,29 @@
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+body {
+    margin: 20px;
+    display: flex;
+    background-color: rgb(231, 231, 231);
+}
+
+@media (min-width: 480px) {
+    img {
+        height: 100%;
+        width: 100%;
+    }
+}
+
+ul {
+    list-style: none;
+    font-size: large;
+}
+
+img {
+    height: 50%;
+    width: 30%;
+}
+
+
